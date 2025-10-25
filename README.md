@@ -1,4 +1,5 @@
 # Mr.Coffee Website
+![Website Mr.Coffee](assets/Website.png) 
 
 ## Summary
 A high-fidelity prototype and a hand-coded website (HTML, CSS, Javascript) that showcases the Mr.Coffee drink brand, including pages of home, menu, rewards, about, and order pages
